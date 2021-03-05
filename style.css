@@ -1,0 +1,18 @@
+body{
+  background-color:wheat;
+  font-family:"Times New Roman", Times, serif;
+  margin:40px;
+  text-align: center;
+}
+canvas{
+  border:1px solid #c3c3c3;
+  height:300px;
+}
+input{
+  font-size:12pt;
+}
+#slider {
+  width: 488px;
+  margin: 0px 0px 0px 480px;
+  display: block;
+}
